@@ -1,0 +1,28 @@
+.logo {
+    max-width: 75px;
+}
+
+ul {
+    padding-left: 0;
+    margin: 0;
+
+    &.social-icons {
+        li {
+            display: inline-block;
+            margin-right: 12px;
+            font-size: 1.2rem;
+        }
+    }
+
+    li {
+        list-style-type: none;
+        a {
+            text-decoration: none;
+            color: var(--bs-teal);
+
+            &:hover {
+                color: var(--bs-dark);
+            }
+        }
+    }
+}
