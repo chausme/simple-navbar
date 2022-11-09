@@ -2,11 +2,15 @@
     "name": "simple-navbar",
     "source": "src/index.html",
     "scripts": {
-      "start": "parcel",
-      "build": "parcel build"
+        "start": "parcel",
+        "build": "parcel build"
     },
     "devDependencies": {
-    "@parcel/transformer-sass": "^2.7.0",
-    "parcel": "^2.7.0"
+        "@parcel/transformer-sass": "^2.7.0",
+        "parcel": "^2.7.0"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.11.6",
+        "bootstrap": "^5.2.2"
     }
 }

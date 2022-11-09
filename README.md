@@ -1,4 +1,4 @@
-# Simple Navbar
+# [Simple Navbar](https://simple-navbar-chausme.netlify.app)
 
 Simple Navbar based on https://www.vanillajavascriptprojects.com/
 
